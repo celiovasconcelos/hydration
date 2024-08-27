@@ -1,1 +1,1 @@
-Code from the article published https://medium.com/@celiovasconcelos/keep-your-application-layer-dryer-using-an-intelligent-hydration-process-2fd4a14d2be9
+Code from the [article](https://medium.com/@celiovasconcelos/keep-your-application-layer-dryer-using-an-intelligent-hydration-process-2fd4a14d2be9) published medium
